@@ -1560,7 +1560,7 @@
             .appendToCell(
               i,
               "fortname",
-              '<div class="anti_wrap"><a onclick="Map.center(' +
+              '<div class="anti_wrap"><a onclick="GameMap.center(' +
               forts[i].x +
               ", " +
               forts[i].y +
